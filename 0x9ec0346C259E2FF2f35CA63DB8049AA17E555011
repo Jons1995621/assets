@@ -1,0 +1,9 @@
+  "name": "OceanCoin",
+  "symbol": "OCN",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "OceanCoin is a BSC-based token representing oceanic innovation and decentralization.",
+  "website": "https://yourwebsite.com",
+  "explorer": "https://bscscan.com/token/你的合约地址",
+  "status": "active",
+  "id": "0x9ec0346C259E2FF2f35CA63DB8049AA17E555011"
